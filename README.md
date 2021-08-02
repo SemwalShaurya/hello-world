@@ -1,7 +1,7 @@
 # hello-world
 My first repository
 
-## Subheader
+## Description
 Hello everyone.
 This is the first time that I'm using GitHub.
 Let's see what all cool projects I work on in the future.
